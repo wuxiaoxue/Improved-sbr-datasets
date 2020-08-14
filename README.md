@@ -4,6 +4,10 @@
 2. We evaluate the impact of data label correctness on SBR prediction models. 
    (The scripts will be added while the paper is accepted.)
 
+# Contact
+Xiaoxue Wu (Data maintainer): wuxiaoxue00@gmail.com
+Wei Zheng: wzheng@nwpu.edu.cn
+Xin Xia: xxia@zju.edu.cn
 
 # Acknowledgements
 The following members provide efforts for our manual data annotation (in no particular order):
